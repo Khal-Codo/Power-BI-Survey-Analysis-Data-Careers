@@ -59,5 +59,5 @@ The survey includes responses to questions covering:
 
 ## Artifacts Included
 - Power BI dashboard file (.pbix)
-- Dashboard PDF
+- Dashboard preview img
 - Cleaned survey dataset 
